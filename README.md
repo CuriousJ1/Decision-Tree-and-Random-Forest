@@ -8,7 +8,7 @@ Classifiers that we used to build the model are Random Forest and Decision Trees
 
 Based on that analysis, predict whether a new applicant is likely to default on a loan or not.
 
-Based on the results, interpretations or insights were made about the dataset.
+Furthermore, based on the results, interpretations or insights were made about the dataset.
 
 The code is based on my own exploration of Python's functionalities and libraries.
 
