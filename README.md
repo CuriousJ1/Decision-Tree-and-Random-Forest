@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, we analyse publiciy available data to understand the loan lending process and work out the best approach for a financial institution, to accurately identify who to lend too and help banks identify the loan defaulters for much-reduced credit risk. 
+In this project, we analyse publiciy available data to understand the loan lending process and work out the best approach for a financial institution, to accurately identify whom to lend too and help banks identify the loan defaulters for much-reduced credit risk. 
 
 Classifiers that we used to build the model are Random Forest and Decision Trees. They’ll be used separately to analyse the dataset and identify the patterns in the dataset and learn from those. 
 
